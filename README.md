@@ -14,4 +14,4 @@
 * NumPy
 * TensorFlow
 
-
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/samisayed0611/sentiment-analysis-using-text-vectorization-and-one-hot-encoding/main/output.png?token=GHSAT0AAAAAACQVFSPEFBXHBJ57D7RJRYJAZSMWOSQ))
